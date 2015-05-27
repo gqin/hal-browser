@@ -16,8 +16,8 @@ representing links. For example:
 ```javascript
 {
     "_links": {
-        "self": { "href": "/orders" },
-        "next": { "href": "/orders?page=2" }
+        "self": { "href": "/changed_orders" },
+        "next": { "href": "/changed_orders?page=2" }
     }
 }
 ```
